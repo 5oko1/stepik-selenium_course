@@ -1,2 +1,2 @@
-# stepic-selenium_course
+# stepik-selenium_course
 Домашнее задание по курсу Selenium + Python от stepik.org
